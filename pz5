@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Пример веб-страницы</title>
+ </head>
+ <body>
+  <h1>Заголовок</h1>
+  <div>
+	<br>Br
+	<span>Span</span>
+  </div>
+  <hr>
+  <h6>h6</h6>
+  <b>b</b>
+  <i>i</i>
+  <u>u</u>
+  <sub>sub</sub>
+  <sup>sup</sup>
+  <img src="https://www.wykop.pl/cdn/c3201142/comment_1596214434HllumkroX9EH92THFfUSfc.gif" alt="">
+  <a href="https://www.youtube.com/watch?v=xudLnNxwlV8&t=35s">Link</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/xudLnNxwlV8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <!-- Комментарий -->
+  <p>Первый абзац.</p>
+  <p>Второй абзац.</p>
+ </body>
+</html>
